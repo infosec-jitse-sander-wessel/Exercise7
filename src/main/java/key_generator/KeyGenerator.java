@@ -1,3 +1,7 @@
+package key_generator;
+
+import models.PrivateKey;
+
 import java.math.BigInteger;
 import java.util.Arrays;
 
